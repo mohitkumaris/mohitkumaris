@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohitkumaris
+- 👋 Hi, I’m Mohit Kumar
 - 👀 I’m interested in Front end and Back end
 - 🌱 I’m currently learning Alot of Front End and Back End Tech
 - 💞️ I’m looking to collaborate on ...
