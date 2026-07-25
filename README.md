@@ -1,33 +1,96 @@
-👋 Hi, I’m Mohit Kumar
+AI Solution Architect | Enterprise Generative AI | Agentic AI | Python | Azure
 
-🚀 Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast
+I design and build production-grade AI systems that combine Large Language Models, Retrieval-Augmented Generation (RAG), multi-agent orchestration, cloud-native architectures, and enterprise integrations.
 
-I design and build scalable backend systems, modern web applications, and cloud-native solutions. My recent work focuses on **FastAPI**, **Docker**, **PostgreSQL**, **Redis**, **LLM integrations**, and **Azure AI services**, with a strong emphasis on clean architecture, observability, and developer experience.
+My focus is building AI solutions that are secure, observable, scalable, and ready for production, not just demos.
 
-🧠 What I’m working on lately:
-- Building **AI-powered services** using OpenAI / Gemini with LangChain
-- Designing **containerized microservices** using Docker & Docker Compose
-- Implementing **robust backend systems** with FastAPI, SQLAlchemy & Alembic
-- Exploring **MCP servers**, LLM orchestration, and AI automation workflows
-- Strengthening cloud fundamentals on **Azure**
+⸻
 
-🛠 Tech Stack:
-- **Backend:** Python, FastAPI, SQLAlchemy, Alembic
-- **Frontend:** Modern JavaScript, React (learning & building)
-- **Databases:** PostgreSQL, Redis
-- **DevOps:** Docker, Docker Compose, CI/CD basics
-- **AI/ML:** OpenAI, Gemini, LangChain, Prompt Engineering
-- **Cloud:** Azure (Storage, AI Services)
+🚀 Areas I specialize in
 
-🎯 What I care about:
-- Writing clean, maintainable, production-ready code
-- System design & backend architecture
-- Learning deeply, not just broadly
-- Solving real-world problems with technology
+* Enterprise AI Architecture
+* Agentic AI & Multi-Agent Systems
+* Retrieval-Augmented Generation (RAG)
+* Model Context Protocol (MCP)
+* Azure OpenAI & Azure AI Foundry
+* FastAPI & Python Backend Engineering
+* Cloud-native Microservices
+* Kubernetes & Azure Container Apps
+* OpenTelemetry & AI Observability
+* AI Security & Guardrails
 
-🤝 Open to:
-- Collaborating on backend, full-stack, or AI-driven projects
-- Learning together and sharing knowledge
+⸻
+
+🛠 Technology Stack
+
+AI
+
+* Azure OpenAI
+* OpenAI
+* LangChain
+* LangGraph
+* LlamaIndex
+* MCP
+* Prompt Engineering
+* AI Agents
+
+Backend
+
+* Python
+* FastAPI
+* AsyncIO
+* SQLAlchemy
+* Alembic
+* Pydantic
+
+Cloud
+
+* Microsoft Azure
+* Azure AI Foundry
+* Azure AI Search
+* Azure Container Apps
+* AKS
+* Azure Functions
+
+Data
+
+* PostgreSQL
+* Redis
+* Vector Databases
+* Semantic Search
+
+DevOps
+
+* Docker
+* Kubernetes
+* GitHub Actions
+* CI/CD
+* OpenTelemetry
+* Dynatrace
+
+⸻
+
+🌟 Current Focus
+
+* Building Enterprise AI Platforms
+* Agentic AI Architectures
+* Custom RAG Systems
+* AI Evaluation & Observability
+* Production LLM Deployments
+* Open Source AI
+
+⸻
+
+🤝 Open to collaborate on
+
+* Enterprise AI
+* AI Architecture
+* Multi-Agent Systems
+* Python Backend
+* Open Source AI
+* MCP Ecosystem
+
+⸻
 
 📫 How to reach me:
 - GitHub: https://github.com/mohitkumaris
